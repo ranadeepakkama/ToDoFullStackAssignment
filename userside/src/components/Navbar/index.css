@@ -1,0 +1,25 @@
+.navbar{
+    padding: 14px;
+    background-color: rgb(209, 249, 250);
+}
+img{
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.user-content{
+    width: 8vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 6px;
+    background-color: rgb(247, 236, 222);
+}
+.logout{
+    border-width: 0px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 8px;
+}
